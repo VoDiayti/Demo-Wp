@@ -1,0 +1,32 @@
+2023-06-22T13:39:22+00:00 CRITICAL Uncaught Error: Call to undefined function get_archive() in D:\xampp\htdocs\build-wp\wp-content\themes\best-shop\index.php:19
+Stack trace:
+#0 D:\xampp\htdocs\build-wp\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\build-wp\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\build-wp\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\build-wp\wp-content\themes\best-shop\index.php on line 19
+
+2023-06-22T13:39:49+00:00 CRITICAL Uncaught Error: Call to undefined function get_archive() in D:\xampp\htdocs\build-wp\wp-content\themes\best-shop\index.php:16
+Stack trace:
+#0 D:\xampp\htdocs\build-wp\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\build-wp\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\build-wp\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\build-wp\wp-content\themes\best-shop\index.php on line 16
+
+2023-06-22T13:44:08+00:00 CRITICAL Uncaught Error: Call to undefined function get_archive() in D:\xampp\htdocs\build-wp\wp-content\themes\best-shop\index.php:15
+Stack trace:
+#0 D:\xampp\htdocs\build-wp\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\build-wp\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\build-wp\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\build-wp\wp-content\themes\best-shop\index.php on line 15
+
+2023-06-22T13:44:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_archive() in D:\xampp\htdocs\build-wp\wp-content\themes\best-shop\index.php:15
+Stack trace:
+#0 D:\xampp\htdocs\build-wp\wp-includes\template-loader.php(106): include()
+#1 D:\xampp\htdocs\build-wp\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\build-wp\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\build-wp\wp-content\themes\best-shop\index.php on line 15
+
