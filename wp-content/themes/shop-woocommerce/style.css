@@ -13,7 +13,12 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: shop-woocommerce
 *
 */
-
+.woocommerce .woocommerce-result-count {
+   display: none;
+}
+.page-header .container .page-title {
+   display: none;
+}
 /***************** * Custom widget * *****************/
 .custom_product_widget .woocommerce-ordering {
  display: none;
